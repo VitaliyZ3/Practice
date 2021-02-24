@@ -1,0 +1,8 @@
+gradleproject1/Contact.java
+ gradleproject1.Contact
+gradleproject1/Order.java
+ gradleproject1.Order
+gradleproject1/Performance.java
+ gradleproject1.Performance
+gradleproject1/Main.java
+ gradleproject1.Main
